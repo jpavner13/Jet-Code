@@ -17,6 +17,7 @@ Run these commands in vscode terminal to install correct boards:
 
 Add Libraries:
   - "arduino-cli lib search Arduino-MPU6050"
+  - Run "arduino-cli lib list" to check instilation
 
 Compile Sketch:
   - "arduino-cli compile --fqbn arduino:mbed:envie_m7 {Sketch_Name}"
