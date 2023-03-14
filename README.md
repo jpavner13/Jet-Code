@@ -16,8 +16,8 @@ Run these commands in vscode terminal to install correct boards:
   3. Look for: "Arduino Portenta H7 (M7 core)       arduino:mbed:envie_m7"
 
 Add Libraries:
-  - "arduino-cli lib search Arduino-MPU6050"
-  - "arduino-cli lib search Adafruit_BMP3XX"
+  - Adafruit MPU6050
+  - Adafruit_BMP3XX
   - Run "arduino-cli lib list" to check instilation
 
 Compile Sketch:
