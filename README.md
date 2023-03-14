@@ -17,6 +17,7 @@ Run these commands in vscode terminal to install correct boards:
 
 Add Libraries:
   - "arduino-cli lib search Arduino-MPU6050"
+  - "arduino-cli lib search Adafruit_BMP3XX"
   - Run "arduino-cli lib list" to check instilation
 
 Compile Sketch:
