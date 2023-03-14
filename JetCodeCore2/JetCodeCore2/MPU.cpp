@@ -1,4 +1,4 @@
-#include "MCU.h"
+#include "MPU.h"
 
 void initializeMPU(Adafruit_MPU6050 mpu){
     while (!mpu.begin()) {
